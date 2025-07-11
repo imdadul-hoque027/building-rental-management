@@ -23,5 +23,5 @@ You can explore the database objects such as tables, views, and PL/SQL packages 
 
 ## Contact
 - Email: imdadulhoque027@gmail.com  
-- LinkedIn: [linkedin.com/in/imdadulhoque](www.linkedin.com/in/imdadul-hoque)  
+- LinkedIn: [www.linkedin.com/in/imdadul-hoque](www.linkedin.com/in/imdadul-hoque)  
 - GitHub: [github.com/imdadul-hoque027](https://github.com/imdadul-hoque027)
