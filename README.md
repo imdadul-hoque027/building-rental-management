@@ -22,6 +22,6 @@ The system is developed using Oracle APEX and PL/SQL, with features including:
 You can explore the database objects such as tables, views, and PL/SQL packages related to this project. The frontend interface is built using Oracle APEX for a user-friendly experience.
 
 ## Contact
-- Email: imdadulhoque@gmail.com  
+- Email: imdadulhoque027@gmail.com  
 - LinkedIn: [ 
 - GitHub: [github.com/imdadul-hoque027](https://github.com/imdadul-hoque027)
